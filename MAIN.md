@@ -57,6 +57,6 @@ Also antique SV in a jar
 42: a vine plant (hardy)
 43: spinach (variety, edible)
 44: another wild flower, this one is very water thirsty, and she literally dies if you don't give her regular drinks, at least once a week
-45: more Lupin flowers (yellow and black)
+45: more random flowers (yellow and black)
 46: another large avocado
 47: Finally another shrub, who now appears to be half dead.
