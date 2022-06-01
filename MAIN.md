@@ -40,7 +40,7 @@ Also antique SV in a jar
 27: one melon seedling, after I managed to kill the other 4/5 of them)
 28: melon seeds planted (1000) which will take 3/4 months to germinate I estimate
 29: Christmas (fir) tree
-30: Acer flowe, about to burst into bloom!
+30: Lupin flower, about to burst into bloom!
 31: about 18 more avocado plants, shooting
 
 #bedroom window
@@ -57,6 +57,6 @@ Also antique SV in a jar
 42: a vine plant (hardy)
 43: spinach (variety, edible)
 44: another wild flower, this one is very water thirsty, and she literally dies if you don't give her regular drinks, at least once a week
-45: more Acer flowers (yellow and black)
+45: more Lupin flowers (yellow and black)
 46: another large avocado
 47: Finally another shrub, who now appears to be half dead.
