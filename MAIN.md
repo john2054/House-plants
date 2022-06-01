@@ -1,7 +1,7 @@
-# House-plants
-My house plants
+//House-plants
+//My house plants
 
-#from memory
+//From memory
 1: Cacti
 2: Aloe Vera
 3: Succulents (Semper Vivum)
@@ -13,7 +13,7 @@ Also antique SV in a jar
 7: Flowers (poppies)
 7#2: flowers unknown random flowers number 2
 
-#window one (lounge #1)
+//window one (lounge #1)
 8: Avocado trees
 9: fern
 10: onion (gone to seed)
@@ -23,7 +23,7 @@ Also antique SV in a jar
 14: various flowers
 15: various seeds
 
-#window two (lounge #2)
+//Window two (lounge #2)
 16: some epic Avocado trees, with leaf lengths even exceeding 12 inches!
 17&17#2: ferns
 18: mother semper vivum
@@ -34,7 +34,7 @@ Also antique SV in a jar
 23: Bamboo trees
 24: more Avocados
 
-#window three (bathroom)
+//Window three (bathroom)
 25: more Avocados
 26: I think it's an apricot
 27: one melon seedling, after I managed to kill the other 4/5 of them)
@@ -43,7 +43,7 @@ Also antique SV in a jar
 30: Lupin flower, about to burst into bloom!
 31: about 18 more avocado plants, shooting
 
-#bedroom window
+//Bedroom window
 32: poppies
 33: other wild flower (unknown name, rescued from seed, in wild)
 34: various cacti
