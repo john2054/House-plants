@@ -17,7 +17,7 @@ Also antique SV in a jar
 8: Avocado trees
 9: fern
 10: onion (gone to seed)
-11: dad's plants (I forgot the name)
+11: geraniums
 12: potato plant
 13: various shrubs
 14: various flowers
